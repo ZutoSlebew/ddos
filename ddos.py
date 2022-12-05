@@ -3,7 +3,7 @@ import os
 import time
 import socket
 import random
-#Code Time
+#code time
 from datetime import datetime
 now = datetime.now()
 hour = now.hour
